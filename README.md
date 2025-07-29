@@ -7,11 +7,11 @@ A lightweight, responsive ToDo List application built using HTML, CSS, and JavaS
 - 💾 Save tasks using localStorage
 - 🎨 Sleek and modern design with smooth gradients and polished UI
 📁 File Structure
-| File | Purpose | 
-| index.html | Main structure of the app | 
-| style.css | Handles layout and design | 
-| script.js | Task logic and localStorage functions | 
-| Images/ | Icons for checked/unchecked tasks & header | 
+* File - Purpose  
+ * index.html - Main structure of the app | 
+* style.css - Handles layout and design | 
+* script.js - Task logic and localStorage functions | 
+* Images - Icons for checked/unchecked tasks & header | 
 
 
 🚀 Getting Started
