@@ -1,5 +1,5 @@
 # ToDo-Application
-A lightweight, responsive ToDo List application built using HTML, CSS, and JavaScript. It allows users to add, check off, and delete tasks — all while storing data in localStorage, so your tasks persist across sessions.
+A lightweight, responsive ToDo List application built using HTML, CSS, and JavaScript. It allows users to add, check off, and delete tasks — all while storing data in localStorage, so your tasks persist across sessions. simple and basic application as a beginner to understand easily. Through going on this project i understood the concepts of remove() , saveData() to store data in local storage, onclickEventListener().
 # You can run in your Browser
 Open http://127.0.0.1:5500/index.html in Your Browser
 📌 Features
